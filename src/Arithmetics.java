@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Arithmetics {
     public static void main(String[] args) {
+
         //Lesson 3
         Scanner scanner = new Scanner(System.in);
         int firstNumber = scanner.nextInt();

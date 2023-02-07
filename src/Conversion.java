@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Conversion {
     public static void main(String[] args) {
+
         //Lesson 4
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите сумму в евро");

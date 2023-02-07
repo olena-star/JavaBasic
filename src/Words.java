@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Words {
     public static void main(String[] args) {
+
         //Lesson2
         Scanner scanner = new Scanner(System.in);
         String first = scanner.nextLine();
